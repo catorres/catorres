@@ -1,8 +1,12 @@
-Hi
+Hi there 👋
 ---
 
-- Lecturer in Computer Science
+- 🔭 I’m currently working on **maintaining and improving my skills while learning more**
 
-- Have worked as a web developer
+- 🌱 I’m currently learning **Angular**
+
+- 🤓 Lecturer in Computer Science
+
+- 👉 Have worked as a web developer
 
 ____
