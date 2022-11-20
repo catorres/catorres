@@ -1,4 +1,4 @@
-Hi, I'm Cat
+Hi
 ---
 
 - Lecturer in Computer Science
